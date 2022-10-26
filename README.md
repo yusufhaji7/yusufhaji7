@@ -7,4 +7,5 @@ Hi there 👋
 - ⚡ Fun fact: I love coding
 
 
-[![yusufhaji7's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufhaji7)](https://github.com/yusufhaji7/github-readme-stats)
+
+![yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufhaji7&show_icons=true&theme=dark)
