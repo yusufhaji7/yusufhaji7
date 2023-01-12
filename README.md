@@ -10,6 +10,4 @@ Hi there 👋
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufhaji7&layout=compact&theme=tokyonight&line_height=50)](https://github.com/anuraghazra/github-readme-stats)
-
 
