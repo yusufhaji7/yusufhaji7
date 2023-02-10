@@ -7,6 +7,7 @@ Hi there 👋
 - 💬 Ask me about python programming language, React JS, Javascript ...
 - 📫 How to reach me: yusuhadji7@gmail.com
 - ⚡ Fun fact: I love coding
+- portfolio site: https://yusufhadji.netlify.app/
 
 
 
